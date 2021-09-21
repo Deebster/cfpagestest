@@ -7,4 +7,4 @@
 </svelte:head>
 
 <h1>Deer</h1>
-<img src="deer.svg" alt="Deer" />
+<img src="/deer.svg" alt="Deer" />
